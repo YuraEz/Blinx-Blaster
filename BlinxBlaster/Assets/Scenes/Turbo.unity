@@ -1195,6 +1195,7 @@ MonoBehaviour:
   scoreInGameText: {fileID: 0}
   score: 0
   scoreInGame: 0
+  scoreInGameBfUpt: 0
 --- !u!1 &200504962 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6616052965571195427, guid: a29514e48aaf8cc41b6f8bbe0deac50c, type: 3}
@@ -1383,6 +1384,7 @@ MonoBehaviour:
   scoreInGameText: {fileID: 0}
   score: 0
   scoreInGame: 0
+  scoreInGameBfUpt: 0
 --- !u!1 &301765328
 GameObject:
   m_ObjectHideFlags: 0
@@ -8866,6 +8868,7 @@ MonoBehaviour:
   scoreInGameText: {fileID: 671785752}
   score: 0
   scoreInGame: 0
+  scoreInGameBfUpt: 0
 --- !u!1 &1876199008
 GameObject:
   m_ObjectHideFlags: 0

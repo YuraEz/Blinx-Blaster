@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Turbo.unity
     guid: bbeafd17f0cbd4241b419fe33c98f6e3
+  - enabled: 1
+    path: Assets/Scenes/KaleidoscopeScene.unity
+    guid: 8ed1f89f6505ae54ebfb7aaff9d784ba
   m_configObjects: {}

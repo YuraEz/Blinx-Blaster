@@ -6395,7 +6395,7 @@ MonoBehaviour:
   padding: 0.1
   startScale: 1
   partsRotation: 30
-  partPref: {fileID: 444415444898518598, guid: e6b304ecad08d1741b5a19b98874542d, type: 3}
+  partPref: {fileID: 444415444898518598, guid: d7c3037d86f24f140b41f27d2caa47c8, type: 3}
   rotateSpeed: 30
   rotateAbility: 30
   rotateStopDelay: 3
